@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mfurkan7
+- 👋 Hi, I’m Furkanç
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on my projects.
