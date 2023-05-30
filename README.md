@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan.
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Python and Embedded Software Engineering.
+- 🌱 I’m currently learning Python and Embedded C.
 - 💞️ I’m looking to collaborate on my projects.
 - 📫 You can reach me by sending e-mail to elektium@gmail.com
 
